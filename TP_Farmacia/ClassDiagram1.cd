@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TP_Farmacia.Cliente">
+    <Position X="1.5" Y="1" Width="2" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAICAIAAIACAACAAgAAAAAEAAAABAAIAQAAAAkA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Farmacia.Farmacia">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAwABAAEAAAABAgBIAAIACABIABgCAAAgBAAAQAQCA=</HashCode>
+      <FileName>Farmacia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Farmacia.LoteRemedios">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACBAAEIAAABCICEAIAAxBSAABAUAAIQIAACQAAAgQ=</HashCode>
+      <FileName>LoteRemedios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Farmacia.Proveedores">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIACgACAAgAAAAAAAAAAAAAAAAgAAAAI=</HashCode>
+      <FileName>Proveedores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Farmacia.Venta">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAEIAEAAAAABAAACAEAAACBAAAAAAIAAAAAAEAgA=</HashCode>
+      <FileName>Venta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
